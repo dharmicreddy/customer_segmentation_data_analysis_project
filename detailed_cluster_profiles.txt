@@ -1,0 +1,13 @@
+
+Cluster 0 Profile:
+Average Total Spend: $2,082.32
+Average Total Orders: 4.94
+Average Days Since Last Purchase: 41.26
+Cluster 1 Profile:
+Average Total Spend: $592.90
+Average Total Orders: 1.65
+Average Days Since Last Purchase: 240.79
+Cluster 2 Profile:
+Average Total Spend: $112,132.39
+Average Total Orders: 111.54
+Average Days Since Last Purchase: 3.23
